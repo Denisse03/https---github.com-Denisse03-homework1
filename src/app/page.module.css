@@ -1,7 +1,7 @@
 .homeNav{
   height: 50px;
   width: 100%;
-  background-color: slategray;
+  background-color: lightsalmon;
 }
 
 .homeNav ul{
@@ -21,10 +21,5 @@
   text-decoration: none;
   color: white;
   font-size: 20px;
-}
-
-.callout{
-  font-size: 18px;
-  border: 1px solid black;
-  padding: 4px;
+  font-style: italic;
 }
