@@ -16,13 +16,13 @@ export default function Home() {
       <nav className={homeStyle.homeNav}>
         <ul>
           <li>
-            <a href="/">Home</a>
+            <a href="https://www.google.com/?client=safari">Home</a>
           </li>
           <li>
-            <a href="/">About</a>
+            <a href="https://www.youtube.com">About</a>
           </li>
           <li>
-            <a href="/">Contact</a>
+            <a href="https://www.amazon.com">Contact</a>
           </li>
         </ul>
       </nav>
